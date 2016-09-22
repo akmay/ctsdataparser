@@ -1,4 +1,4 @@
-# ctsdataparser
+# CTS Data Parser
 
 Consolidated Tape System (CTS) market data streams are produced and distributed worldwide. This data feed consists of reports of trades in equity markets in the US. All exchanges are obligated to provide their trade (last sale) data to CTS where it is timestamped and published on their data feed. 
 
